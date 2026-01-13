@@ -1,7 +1,5 @@
 ## 📊 &nbsp;Stats
 
-![slouut Github Stats](https://github-readme-stats.vercel.app/api?username=slouut&count_private=true&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
 ## 🧰 &nbsp;Toolbox
 
 <div style="display: inline_block"><br>
